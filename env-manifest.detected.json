@@ -1,0 +1,32 @@
+{
+  "product": "arroyo",
+  "path": "/home/toxic/pens/ranch/products/arroyo",
+  "files": 2,
+  "detected_at": "2026-10-30T06:11:03.104375Z",
+  "env_vars": {
+    "OFFICIAL_BOTFATHER_ID": [
+      "overlord/src/taas.ts"
+    ],
+    "PORT": [
+      "overlord/src/taas.ts"
+    ],
+    "VANS_TAAS_PORT": [
+      "overlord/src/taas.ts"
+    ],
+    "agent": [
+      "overlord/src/taas.ts"
+    ],
+    "body": [
+      "overlord/src/probe-botfather.ts"
+    ],
+    "name": [
+      "overlord/src/taas.ts"
+    ],
+    "sender": [
+      "overlord/src/probe-botfather.ts"
+    ],
+    "senderId": [
+      "overlord/src/taas.ts"
+    ]
+  }
+}
